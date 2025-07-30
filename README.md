@@ -10,8 +10,7 @@
 
 This package includes our codes for implementing "MetaLab: Few-Shot Game Changer for Image Recognition". 
 (Fully Released Date: 2025-07-30)
-
->Benchmark Link: https://pan.baidu.com/s/1KiIZ0FXkGPnhsq0sXjrsZA Code: cf5w 
+Benchmark Link: https://pan.baidu.com/s/1KiIZ0FXkGPnhsq0sXjrsZA Code: cf5w 
 
 <p align="center"><img width="35%" src="assets/MetaLab.PNG" /></p>
 
