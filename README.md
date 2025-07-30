@@ -14,17 +14,13 @@ This package includes our codes for implementing "MetaLab: Few-Shot Game Changer
 >Benchmark Link: https://pan.baidu.com/s/1KiIZ0FXkGPnhsq0sXjrsZA Code: cf5w
 
 >Our Paper: https://arxiv.org/pdf/2507.22057
-<p align="center"><img width="35%" src="assets/MetaLab.PNG" /></p>
 
 ## 1.Introduction
 
 *Difficult few-shot image recognition has significant application prospects, yet remaining the substantial technical gaps with the conventional large-scale image recognition.
 In this paper, we have proposed an efficient original method for few-shot image recognition, called CIELab-Guided Coherent Meta-Learning (MetaLab). Structurally, our MetaLab comprises two collaborative neural networks: LabNet, which can perform domain transformation for the CIELab color space and extract rich grouped features, and coherent LabGNN, which can facilitate mutual learning between lightness graph and color graph. For sufficient certification, we have implemented extensive comparative studies on four
 coarse-grained benchmarks, four fine-grained benchmarks, and four cross-domain few-shot benchmarks. Specifically, our method can achieve high accuracy, robust performance, and effective generalization capability with one-shot sample per class. Overall, all experiments have demonstrated that our MetaLab can approach 99% ↑↓ accuracy, reaching the human recognition ceiling with little visual deviation.*
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/LabNet.PNG" alt="LabNet" style="width: 49.9%;">
-    <img src="assets/LabGNN.PNG" alt="LabGNN" style="width: 49.9%;">
-</div>
+
 
 
 ## 2.Few-shot Benchmarks Preparation   
