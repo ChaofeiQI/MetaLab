@@ -13,7 +13,7 @@ This package includes our codes for implementing "MetaLab: Few-Shot Game Changer
 
 >Benchmark Link: https://pan.baidu.com/s/1KiIZ0FXkGPnhsq0sXjrsZA Code: cf5w
 
->Paper: https://arxiv.org/pdf/2507.22057
+>Our Paper: https://arxiv.org/pdf/2507.22057
 <p align="center"><img width="35%" src="assets/MetaLab.PNG" /></p>
 
 ## 1.Introduction
